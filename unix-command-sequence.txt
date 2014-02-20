@@ -7,7 +7,7 @@ Answer all the questions;
 
 mkdir {www,css,dev,img,js} 
 
-npm install grunt --save-dev && npm install watch --save-dev && npm install bower --save-dev && npm install htmlhint --save-dev && npm install requirejs --save-dev && npm install matchdep
+npm install grunt --save-dev && npm install watch --save-dev && npm install bower --save-dev && npm install uglifyjs --save-dev && npm install htmlhint --save-dev && npm install requirejs --save-dev && npm install matchdep
 
 cd dev && mkdir {Sass,js} && cd ..
 
