@@ -1,4 +1,3 @@
-
 mkdir my-fabo-projectnpm init
 
 Answer all the questions;
@@ -7,8 +6,13 @@ Answer all the questions;
    * YIKES!!  add "private": true, to the package.json so that your project is not globally distributed as a npm app
 
 mkdir {www,css,dev,img,js} 
+
 npm install grunt --save-dev && npm install watch --save-dev && npm install bower --save-dev && npm install htmlhint --save-dev && npm install requirejs --save-dev && npm install matchdep
+
 cd dev && mkdir {Sass,js} && cd ..
+
 git init
+
 git add .git 
+
 commit -m "initial commit"
